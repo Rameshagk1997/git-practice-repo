@@ -1,4 +1,0 @@
-This is text file,
-This line is inserted from master branch.
-This line is inserted from devdb branch.
-This line is inserted from qa branch.
